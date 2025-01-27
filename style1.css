@@ -1,0 +1,22 @@
+img {
+    border: 5px solid black; /* Adds a 5px white border around the image */
+    border-radius: 10px; /* Optional: gives rounded corners to the border */
+}
+#red{
+    color: red;
+}
+#gray{
+    color:gray;
+}
+#black{
+    color: black;
+}
+#white{
+    color:wheat;
+}
+#forest{
+    color: darkgreen;
+}
+#desert{
+    color: saddlebrown;
+}

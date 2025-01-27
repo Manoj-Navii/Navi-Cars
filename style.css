@@ -1,0 +1,16 @@
+img {
+    border: 2px solid black; /* Adds a 5px white border around the image */
+    border-radius: 10px; /* Optional: gives rounded corners to the border */
+}
+p{
+    background-color: purple;
+    padding: 40px;
+    color: white;
+  
+  }
+  body{
+    text-align: center;
+  }
+  li{
+    text-align: left;
+  }
